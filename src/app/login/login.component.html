@@ -1,0 +1,10 @@
+<section>
+  <article>
+<b i18n="Card header | This is login page">Login Page</b><br />
+<form #loginData="ngForm" (ngSubmit)="loginUser(loginData)">
+  <label i18n="Card header | UserId">User Id</label><input type="text" name="userid" ngModel/><br />
+  <label i18n="Card header | Password">Password</label><input type="password" name="password" ngModel/><br />
+  <button type="submit">Login</button>
+</form>
+  </article>
+</section>

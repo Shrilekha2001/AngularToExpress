@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="6108342937510915229" datatype="html">
+        <source>Login Page</source>
+        <target>உள்நுழைவு பக்கம்</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <note priority="1" from="description"> This is login page</note>
+        <note priority="1" from="meaning">Card header </note>
+      </trans-unit>
+      <trans-unit id="2673906286110406789" datatype="html">
+        <source>User Id</source>
+        <target>பயனர் ஐடி</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description"> UserId</note>
+        <note priority="1" from="meaning">Card header </note>
+      </trans-unit>
+      <trans-unit id="968878549217452687" datatype="html">
+        <source>Password</source>
+        <target>
+கடவுச்சொல்</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login/login.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description"> Password</note>
+        <note priority="1" from="meaning">Card header </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
